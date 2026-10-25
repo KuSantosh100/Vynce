@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <strong>Your Vision. Our Mision.</strong><br />
   <strong>Create · Edit · Ship</strong><br />
   An AI-powered creative video concept for turning ideas into polished visual stories.
 </p>
